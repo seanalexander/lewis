@@ -45,9 +45,7 @@ Send a merge request.
 
 ## Authors
 
-* **Seann Alexander** - *Initial work* - [seannalexander](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Seann Alexander** - *Initial work* - [seanalexander](https://github.com/seanalexander)
 
 ## License
 

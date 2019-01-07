@@ -16,9 +16,20 @@ Give examples
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+### Start the Web Server you want to test
 
-### Break down into end to end tests
+Visit one of the lewis_ folders, such as:
+```
+cd lewis_express
+```
+
+and run:
+```
+node .\app.js
+```
+
+
+### Run a Test
 
 Run a default test for test seconds, 1 pipeline
 
@@ -26,7 +37,6 @@ Run a default test for test seconds, 1 pipeline
 ```
 autocannon -d 10 -c 10 -p 1 http://localhost:3000/
 ```
-
 
 Run a default test for test seconds, 100 pipelines
 ```

@@ -31,6 +31,7 @@ if (cluster.isMaster) {
 
     const port = 3000
     app.get('/', (req, res) => res.send({ hello: 'world' }))
+    app.post('/', (req, res) => res.send({ hello: 'world' }))
     app.listen(port, () => console.log(`Example app listening on port ${port}!`))
 
     console.log(`Worker ${process.pid} started`);

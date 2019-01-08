@@ -32,8 +32,12 @@ const fastify = require('fastify')({
   logger: false
 })
 
-// Declare a route
+// Declare a GET route
 fastify.get('/', (request, reply) => {
+  reply.send({ hello: 'world' })
+})
+// Declare a POST route
+fastify.post('/', (request, reply) => {
   reply.send({ hello: 'world' })
 })
 

@@ -1,0 +1,14 @@
+C:\Users\self_kpxvndz\dev\lewis\lewis_kestral_dotnetcore\bin\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.deps.json
+C:\Users\self_kpxvndz\dev\lewis\lewis_kestral_dotnetcore\bin\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.runtimeconfig.json
+C:\Users\self_kpxvndz\dev\lewis\lewis_kestral_dotnetcore\bin\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.runtimeconfig.dev.json
+C:\Users\self_kpxvndz\dev\lewis\lewis_kestral_dotnetcore\bin\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.dll
+C:\Users\self_kpxvndz\dev\lewis\lewis_kestral_dotnetcore\bin\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.pdb
+C:\Users\self_kpxvndz\dev\lewis\lewis_kestral_dotnetcore\obj\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.csprojAssemblyReference.cache
+C:\Users\self_kpxvndz\dev\lewis\lewis_kestral_dotnetcore\obj\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.csproj.CoreCompileInputs.cache
+C:\Users\self_kpxvndz\dev\lewis\lewis_kestral_dotnetcore\obj\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.RazorAssemblyInfo.cache
+C:\Users\self_kpxvndz\dev\lewis\lewis_kestral_dotnetcore\obj\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.RazorAssemblyInfo.cs
+C:\Users\self_kpxvndz\dev\lewis\lewis_kestral_dotnetcore\obj\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.AssemblyInfoInputs.cache
+C:\Users\self_kpxvndz\dev\lewis\lewis_kestral_dotnetcore\obj\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.AssemblyInfo.cs
+C:\Users\self_kpxvndz\dev\lewis\lewis_kestral_dotnetcore\obj\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.RazorTargetAssemblyInfo.cache
+C:\Users\self_kpxvndz\dev\lewis\lewis_kestral_dotnetcore\obj\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.dll
+C:\Users\self_kpxvndz\dev\lewis\lewis_kestral_dotnetcore\obj\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.pdb

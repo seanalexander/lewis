@@ -1,4 +1,4 @@
-'use strict'
+﻿'use strict'
 
 const path = require('path')
 const AutoLoad = require('fastify-autoload')
@@ -58,7 +58,7 @@ if (cluster.isMaster) {
   });
 } else {
   // Run the server!
-  fastify.listen(3000, (err, address) => {
+  fastify.listen(3001, (err, address) => {
     if (err) throw err
     fastify.log.info(`server listening on ${address}`)
   })
@@ -66,8 +66,8 @@ if (cluster.isMaster) {
 }
 
 /*
- self_kpxvndz@ABUNADH  ~\..\..\lewis.tests  autocannon -d 10 -c 10 -p 1 http://localhost:3000/
-Running 10s test @ http://localhost:3000/
+ self_kpxvndz@ABUNADH  ~\..\..\lewis.tests  autocannon -d 10 -c 10 -p 1 http://localhost:3001/
+Running 10s test @ http://localhost:3001/
 10 connections
 
 ┌─────────┬──────┬──────┬───────┬──────┬─────────┬─────────┬──────────┐
@@ -88,8 +88,8 @@ Req/Bytes counts sampled once per second.
 435k requests in 11.04s, 71.3 MB read
 */
 /*
- self_kpxvndz@ABUNADH  ~\..\..\lewis.tests  autocannon -d 10 -c 100 -p 100 http://localhost:3000/
-Running 10s test @ http://localhost:3000/
+ self_kpxvndz@ABUNADH  ~\..\..\lewis.tests  autocannon -d 10 -c 100 -p 100 http://localhost:3001/
+Running 10s test @ http://localhost:3001/
 100 connections with 100 pipelining factor
 
 ┌─────────┬──────┬──────┬───────┬──────┬─────────┬──────────┬───────────┐

@@ -1,4 +1,4 @@
-# Lewis
+Lewis
 
 A project to explore testing frameworks in node
 
@@ -16,20 +16,9 @@ Give examples
 
 ## Running the tests
 
-### Start the Web Server you want to test
+Explain how to run the automated tests for this system
 
-Visit one of the lewis_ folders, such as:
-```
-cd lewis_express
-```
-
-and run:
-```
-node .\app.js
-```
-
-
-### Run a Test
+### Break down into end to end tests
 
 Run a default test for test seconds, 1 pipeline
 
@@ -37,6 +26,7 @@ Run a default test for test seconds, 1 pipeline
 ```
 autocannon -d 10 -c 10 -p 1 http://localhost:3000/
 ```
+
 
 Run a default test for test seconds, 100 pipelines
 ```
@@ -55,8 +45,16 @@ Send a merge request.
 
 ## Authors
 
-* **Seann Alexander** - *Initial work* - [seanalexander](https://github.com/seanalexander)
+* **Seann Alexander** - *Initial work* - [seannalexander](https://github.com/PurpleBooth)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc

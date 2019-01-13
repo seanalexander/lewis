@@ -16,5 +16,11 @@ namespace lewis_kestral_dotnetcore.Controllers
         {
             return new string[] { "hello", "world" };
         }
+        [HttpPost]
+        [Route("api/sessions")]
+        public ActionResult<IEnumerable<string>> Post()
+        {
+            return new string[] { "hello", "world" };
+        }
     }
 }

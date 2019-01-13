@@ -12,3 +12,17 @@ C:\Users\self_kpxvndz\dev\lewis\lewis_kestral_dotnetcore\obj\Debug\netcoreapp2.2
 C:\Users\self_kpxvndz\dev\lewis\lewis_kestral_dotnetcore\obj\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.RazorTargetAssemblyInfo.cache
 C:\Users\self_kpxvndz\dev\lewis\lewis_kestral_dotnetcore\obj\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.dll
 C:\Users\self_kpxvndz\dev\lewis\lewis_kestral_dotnetcore\obj\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.pdb
+C:\sandbox\src\third\seanalexander\lewis\lewis_kestral_dotnetcore\bin\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.deps.json
+C:\sandbox\src\third\seanalexander\lewis\lewis_kestral_dotnetcore\bin\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.runtimeconfig.json
+C:\sandbox\src\third\seanalexander\lewis\lewis_kestral_dotnetcore\bin\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.runtimeconfig.dev.json
+C:\sandbox\src\third\seanalexander\lewis\lewis_kestral_dotnetcore\bin\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.dll
+C:\sandbox\src\third\seanalexander\lewis\lewis_kestral_dotnetcore\bin\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.pdb
+C:\sandbox\src\third\seanalexander\lewis\lewis_kestral_dotnetcore\obj\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.csprojAssemblyReference.cache
+C:\sandbox\src\third\seanalexander\lewis\lewis_kestral_dotnetcore\obj\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.csproj.CoreCompileInputs.cache
+C:\sandbox\src\third\seanalexander\lewis\lewis_kestral_dotnetcore\obj\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.RazorAssemblyInfo.cache
+C:\sandbox\src\third\seanalexander\lewis\lewis_kestral_dotnetcore\obj\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.RazorAssemblyInfo.cs
+C:\sandbox\src\third\seanalexander\lewis\lewis_kestral_dotnetcore\obj\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.AssemblyInfoInputs.cache
+C:\sandbox\src\third\seanalexander\lewis\lewis_kestral_dotnetcore\obj\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.AssemblyInfo.cs
+C:\sandbox\src\third\seanalexander\lewis\lewis_kestral_dotnetcore\obj\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.RazorTargetAssemblyInfo.cache
+C:\sandbox\src\third\seanalexander\lewis\lewis_kestral_dotnetcore\obj\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.dll
+C:\sandbox\src\third\seanalexander\lewis\lewis_kestral_dotnetcore\obj\Debug\netcoreapp2.2\lewis_kestral_dotnetcore.pdb

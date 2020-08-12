@@ -15,7 +15,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fastify": "^1.13.2",
+    "fastify": "^3.2.0",
     "fastify-autoload": "^0.5.1",
     "fastify-cli": "^0.26.2",
     "fastify-plugin": "^1.2.0"
